@@ -40,14 +40,14 @@ CREATE TABLE `medicos` (
 --
 
 INSERT INTO `medicos` (`codigo del doctor`, `nombre`, `especialidad`, `direccion`, `telefono`) VALUES
-(1, 'Dra.Sanz', 'Internista', 'Calle 4 # 23 - 12', 8234567),
-(2, 'Dr.Perez', 'Traumatologo', 'Cra 3 # 7 - 98', 8210987),
-(3, 'Dr.Fernandez', 'Internista', 'Calle 56 # 98 - 76', 8240975),
-(4, 'Dr.Alonso', 'Cardiologo', 'Cra 25 # 45 - 19', 8309865),
-(5, 'Dr.Garcia', 'Hepatologia', 'Cía 71 # 7 - 93', 8317543),
-(6, 'Dr.Nuñez', 'Neurologia', 'Calle 32 # 90 - 21', 8205489),
-(7, 'Dr_ Sanchez', 'Radiologia', 'Edi. Torres del Morinda', 8245621),
-(8, 'Dra Quiroga', 'Pediatria', 'Cra 78 # 3 - 45', 8300078),
+(1, 'Dra. Sanz', 'Internista', 'Calle 4 # 23 - 12', 8234567),
+(2, 'Dr. Perez', 'Traumatologo', 'Cra 3 # 7 - 98', 8210987),
+(3, 'Dr. Fernandez', 'Internista', 'Calle 56 # 98 - 76', 8240975),
+(4, 'Dr. Alonso', 'Cardiologo', 'Cra 25 # 45 - 19', 8309865),
+(5, 'Dr. Garcia', 'Hepatologia', 'Cía 71 # 7 - 93', 8317543),
+(6, 'Dr. Nuñez', 'Neurologia', 'Calle 32 # 90 - 21', 8205489),
+(7, 'Dr. Sanchez', 'Radiologia', 'Edi. Torres del Morinda', 8245621),
+(8, 'Dra. Quiroga', 'Pediatria', 'Cra 78 # 3 - 45', 8300078),
 (9, 'Dr. Latorre', 'Pediatria', 'Calle 74 4 24 - 56', 8213456),
 (10, 'Dr. Lopez', 'Ginecologia', 'Cra 21 # 70 - 94', 8327654),
 (11, 'Dra. Campo', 'Opstetra', 'Calle 20 # 49 - 51', 8320943);
